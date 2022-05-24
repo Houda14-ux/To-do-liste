@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+}
+table tr{
+    width: 100%;
+}
+table td{
+    width: 25%;
+    text-align: center;
+}
+.complete{
+    text-decoration: line-through;
+}
